@@ -43,4 +43,13 @@ public class QuestionService {
             throw new RuntimeException(e);
         }
     }
+
+    public ResponseEntity<String> addMultipleQuestion(List<Question> questions) {
+        try {
+            questionDao.saveAll(questions);
+            return new ResponseEntity<>("successfully created", HttpStatus.CREATED);
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
+    }
 }

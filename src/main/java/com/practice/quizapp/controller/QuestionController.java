@@ -31,4 +31,9 @@ public class QuestionController {
     public ResponseEntity<String> addQuestion(@RequestBody Question question){
         return questionService.addQuestion(question);
     }
+    @PostMapping("add-multiple")
+    public ResponseEntity<String> addMultipleQuestions(@RequestBody List<Question> question){
+        return questionService.addMultipleQuestion(question);
+    }
+
 }

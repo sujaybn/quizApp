@@ -1,0 +1,332 @@
+[
+  {
+    "questionTitle": "What is a firewall?",
+    "option1": "A type of computer virus",
+    "option2": "A network security device",
+    "option3": "A programming language",
+    "option4": "A hardware component",
+    "correctAnswer": "option2",
+    "difficultyLevel": "Medium",
+    "category": "Cybersecurity"
+  },
+  {
+    "questionTitle": "In C++, what is the difference between '++i' and 'i++'?",
+    "option1": "'++i' increments i and returns the new value",
+    "option2": "'i++' increments i and returns the old value",
+    "option3": "'++i' increments i but does not return a value",
+    "option4": "'i++' increments i but does not change its value",
+    "correctAnswer": "option1",
+    "difficultyLevel": "Easy",
+    "category": "C++"
+  },
+  {
+    "questionTitle": "Which SQL statement is used to retrieve data from a database?",
+    "option1": "SELECT",
+    "option2": "GET",
+    "option3": "FETCH",
+    "option4": "RETRIEVE",
+    "correctAnswer": "option1",
+    "difficultyLevel": "Easy",
+    "category": "SQL"
+  },
+  {
+    "questionTitle": "What is a common encryption algorithm used in cybersecurity?",
+    "option1": "AES",
+    "option2": "HTML",
+    "option3": "HTTP",
+    "option4": "FTP",
+    "correctAnswer": "option1",
+    "difficultyLevel": "Medium",
+    "category": "Cybersecurity"
+  },
+  {
+    "questionTitle": "In C++, what is the 'new' operator used for?",
+    "option1": "To create a new file",
+    "option2": "To allocate memory for an object or data structure",
+    "option3": "To increment a variable",
+    "option4": "To declare a new function",
+    "correctAnswer": "option2",
+    "difficultyLevel": "Medium",
+    "category": "C++"
+  },
+  {
+    "questionTitle": "Which SQL command is used to update data in a database?",
+    "option1": "INSERT",
+    "option2": "MODIFY",
+    "option3": "UPDATE",
+    "option4": "ALTER",
+    "correctAnswer": "option3",
+    "difficultyLevel": "Easy",
+    "category": "SQL"
+  },
+  {
+    "questionTitle": "What is a DDoS attack in cybersecurity?",
+    "option1": "A type of encryption method",
+    "option2": "A form of malware",
+    "option3": "A denial of service attack",
+    "option4": "A data storage system",
+    "correctAnswer": "option3",
+    "difficultyLevel": "Medium",
+    "category": "Cybersecurity"
+  },
+  {
+    "questionTitle": "What is a pointer in C++?",
+    "option1": "A type of data structure",
+    "option2": "A variable that stores the address of another variable",
+    "option3": "A keyword for loop control",
+    "option4": "A file handling function",
+    "correctAnswer": "option2",
+    "difficultyLevel": "Easy",
+    "category": "C++"
+  },
+  {
+    "questionTitle": "Which SQL statement is used to delete data from a database?",
+    "option1": "REMOVE",
+    "option2": "DELETE",
+    "option3": "ERASE",
+    "option4": "DISPOSE",
+    "correctAnswer": "option2",
+    "difficultyLevel": "Easy",
+    "category": "SQL"
+  },
+  {
+    "questionTitle": "What is a firewall rule in cybersecurity?",
+    "option1": "A set of instructions for building a website",
+    "option2": "A security policy that dictates which network traffic is allowed or blocked",
+    "option3": "A programming construct in C++",
+    "option4": "A database query",
+    "correctAnswer": "option2",
+    "difficultyLevel": "Medium",
+    "category": "Cybersecurity"
+  },
+  {
+    "questionTitle": "In C++, what is an 'if' statement used for?",
+    "option1": "Defining a class",
+    "option2": "Looping through an array",
+    "option3": "Making conditional decisions",
+    "option4": "Creating a function",
+    "correctAnswer": "option3",
+    "difficultyLevel": "Easy",
+    "category": "C++"
+  },
+  {
+    "questionTitle": "Which SQL clause is used to filter the results of a query?",
+    "option1": "FILTER",
+    "option2": "LIMIT",
+    "option3": "WHERE",
+    "option4": "SORT",
+    "correctAnswer": "option3",
+    "difficultyLevel": "Easy",
+    "category": "SQL"
+  },
+  {
+    "questionTitle": "What is malware in cybersecurity?",
+    "option1": "A type of software used for data analysis",
+    "option2": "Malicious software designed to harm or exploit computer systems",
+    "option3": "A hardware component of a computer",
+    "option4": "A network protocol",
+    "correctAnswer": "option2",
+    "difficultyLevel": "Medium",
+    "category": "Cybersecurity"
+  },
+  {
+    "questionTitle": "In C++, what is the 'for' loop used for?",
+    "option1": "Conditional branching",
+    "option2": "Performing arithmetic operations",
+    "option3": "Iterating over a sequence of values",
+    "option4": "Creating objects",
+    "correctAnswer": "option3",
+    "difficultyLevel": "Easy",
+    "category": "C++"
+  },
+  {
+    "questionTitle": "Which SQL command is used to create a new database?",
+    "option1": "CREATE",
+    "option2": "BUILD",
+    "option3": "NEW",
+    "option4": "ESTABLISH",
+    "correctAnswer": "option1",
+    "difficultyLevel": "Easy",
+    "category": "SQL"
+  },
+  {
+    "questionTitle": "What is a virus in cybersecurity?",
+    "option1": "A type of computer hardware",
+    "option2": "A self-replicating program that infects computer systems",
+    "option3": "A data storage device",
+    "option4": "A network cable",
+    "correctAnswer": "option2",
+    "difficultyLevel": "Medium",
+    "category": "Cybersecurity"
+  },
+  {
+    "questionTitle": "In C++, what is the purpose of the 'cin' and 'cout' objects?",
+    "option1": "To read and write to the console",
+    "option2": "To perform mathematical calculations",
+    "option3": "To control loops",
+    "option4": "To handle exceptions",
+    "correctAnswer": "option1",
+    "difficultyLevel": "Easy",
+    "category": "C++"
+  },
+  {
+    "questionTitle": "Which SQL statement is used to retrieve all columns from a table?",
+    "option1": "SELECT *",
+    "option2": "RETRIEVE *",
+    "option3": "GET ALL",
+    "option4": "SHOW",
+    "correctAnswer": "option1",
+    "difficultyLevel": "Easy",
+    "category": "SQL"
+  },
+  {
+    "questionTitle": "What is a phishing attack in cybersecurity?",
+    "option1": "A type of fishing expedition",
+    "option2": "An attempt to trick individuals into revealing sensitive information",
+    "option3": "A network configuration error",
+    "option4": "A form of computer virus",
+    "correctAnswer": "option2",
+    "difficultyLevel": "Medium",
+    "category": "Cybersecurity"
+  },
+  {
+    "questionTitle": "In C++, what is a 'class'?",
+    "option1": "A statement used to exit a loop",
+    "option2": "A user-defined data type",
+    "option3": "A file handling function",
+    "option4": "A type of variable",
+    "correctAnswer": "option2",
+    "difficultyLevel": "Easy",
+    "category": "C++"
+  },
+  {
+    "questionTitle": "Which SQL command is used to add data to a table?",
+    "option1": "ADD",
+    "option2": "INSERT",
+    "option3": "APPEND",
+    "option4": "UPDATE",
+    "correctAnswer": "option2",
+    "difficultyLevel": "Easy",
+    "category": "SQL"
+  },
+  {
+    "questionTitle": "What is encryption in cybersecurity?",
+    "option1": "A type of computer programming",
+    "option2": "A method of converting data into a secure code to prevent unauthorized access",
+    "option3": "A type of network protocol",
+    "option4": "A data storage device",
+    "correctAnswer": "option2",
+    "difficultyLevel": "Medium",
+    "category": "Cybersecurity"
+  },
+  {
+    "questionTitle": "In C++, what is the 'switch' statement used for?",
+    "option1": "Declaring variables",
+    "option2": "Performing bitwise operations",
+    "option3": "Making multiple conditional decisions",
+    "option4": "Creating objects",
+    "correctAnswer": "option3",
+    "difficultyLevel": "Medium",
+    "category": "C++"
+  },
+  {
+    "questionTitle": "Which SQL statement is used to change the structure of an existing table?",
+    "option1": "ALTER",
+    "option2": "CHANGE",
+    "option3": "MODIFY",
+    "option4": "UPDATE",
+    "correctAnswer": "option1",
+    "difficultyLevel": "Medium",
+    "category": "SQL"
+  },
+  {
+    "questionTitle": "What is a firewall in cybersecurity?",
+    "option1": "A physical barrier used to prevent access to a network",
+    "option2": "A software program used to block internet access",
+    "option3": "A security protocol",
+    "option4": "A type of computer virus",
+    "correctAnswer": "option1",
+    "difficultyLevel": "Easy",
+    "category": "Cybersecurity"
+  },
+  {
+    "questionTitle": "In C++, what is an 'array'?",
+    "option1": "A type of loop",
+    "option2": "A collection of elements of the same data type",
+    "option3": "A file handling function",
+    "option4": "A keyword for conditional statements",
+    "correctAnswer": "option2",
+    "difficultyLevel": "Easy",
+    "category": "C++"
+  },
+  {
+    "questionTitle": "Which SQL clause is used to specify the order in which rows are returned in a result set?",
+    "option1": "ORDER BY",
+    "option2": "SORT",
+    "option3": "GROUP BY",
+    "option4": "ARRANGE",
+    "correctAnswer": "option1",
+    "difficultyLevel": "Easy",
+    "category": "SQL"
+  },
+  {
+    "questionTitle": "What is a virus scan in cybersecurity?",
+    "option1": "A software program used to detect and remove computer viruses",
+    "option2": "A type of computer hardware",
+    "option3": "A method of securing network connections",
+    "option4": "A data backup process",
+    "correctAnswer": "option1",
+    "difficultyLevel": "Medium",
+    "category": "Cybersecurity"
+  },
+  {
+    "questionTitle": "In C++, what is 'polymorphism'?",
+    "option1": "A programming language feature that allows objects of different classes to be treated as objects of a common superclass",
+    "option2": "A file input/output operation",
+    "option3": "A type of loop",
+    "option4": "A method of code optimization",
+    "correctAnswer": "option1",
+    "difficultyLevel": "Medium",
+    "category": "C++"
+  },
+  {
+    "questionTitle": "Which SQL command is used to delete a table from a database?",
+    "option1": "DROP",
+    "option2": "REMOVE",
+    "option3": "DELETE TABLE",
+    "option4": "ERASE",
+    "correctAnswer": "option1",
+    "difficultyLevel": "Medium",
+    "category": "SQL"
+  },
+  {
+    "questionTitle": "What is a VPN in cybersecurity?",
+    "option1": "A virtual private network used for secure communication over the internet",
+    "option2": "A type of computer virus",
+    "option3": "A hardware firewall",
+    "option4": "A network configuration tool",
+    "correctAnswer": "option1",
+    "difficultyLevel": "Easy",
+    "category": "Cybersecurity"
+  },
+  {
+    "questionTitle": "In C++, what is 'inheritance'?",
+    "option1": "A way to hide data within a program",
+    "option2": "A method of code obfuscation",
+    "option3": "A programming language feature that allows a class to inherit properties and methods from another class",
+    "option4": "A data storage technique",
+    "correctAnswer": "option3",
+    "difficultyLevel": "Medium",
+    "category": "C++"
+  },
+  {
+    "questionTitle": "Which SQL statement is used to create a new table in a database?",
+    "option1": "CREATE TABLE",
+    "option2": "NEW TABLE",
+    "option3": "MAKE TABLE",
+    "option4": "DEFINE TABLE",
+    "correctAnswer": "option1",
+    "difficultyLevel": "Easy",
+    "category": "SQL"
+  }
+]
