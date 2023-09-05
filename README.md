@@ -8,9 +8,9 @@
 >4. Postman
 >5. PostgreSql 
 
-### TODO:
->1. Add delete questions 
->2. Add update questions 
+### Scope for imporovement:
+>1. DELETE questions 
+>2. UPDATE questions 
 >3. Add validations and exception handling 
 >4. Read the questions DB from a CSV file and add to DB
 >4. Develop a front end application
@@ -21,9 +21,8 @@
 >3. Ensure that the maven dependencies are resolved and do a ```mvn clean install```
 >4. Install PgAdmin from https://www.pgadmin.org/download/
 >5. Ensure that you create a database under in PgAdmin. You can use UI to create the DB with the name **questiondb**.
->   1.  Run this command to create the _question_ table:
-    ```CREATE TABLE "question" (
-    "id" SERIAL PRIMARY KEY,
+>   1.  Run this command to create the _question_ table:                                                                                                                      
+    ```CREATE TABLE "question" ("id" SERIAL PRIMARY KEY,
     "category" VARCHAR(25),
     "difficulty_level" VARCHAR(25),
     "option1" VARCHAR(255),
@@ -39,7 +38,7 @@
 >   3. To run the CRUD operations, use postman to run the below payload 
 >      1. **GET** http://localhost:8080/question/allQuestions
 >      2. **POST** http://localhost:8080/question/add
->         Payload:
+>   >Payload:
        ```{
           "questionTitle": "This is one more test question for POST?",
           "option1": "op1",
@@ -54,7 +53,8 @@
  >      3. **POST** http://localhost:8080/quiz/create?category=Java&numQ=5&title=JQuiz
  >      4. **GET** http://localhost:8080/quiz/get/1
  >      5. **POST** http://localhost:8080/quiz/submit/1
- >      Payload: ```[
+ >    
+ >    >  Payload: ```[
        {
        "id":"25",
        "response":"Option 3"
