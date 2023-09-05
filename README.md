@@ -12,11 +12,13 @@ This project is a practice exercise developed using the Spring Boot framework to
 
 ## Scope for Improvement
 The project has the following areas for improvement:
-1. Implement DELETE functionality for questions.
-2. Implement UPDATE functionality for questions.
-3. Add validation and exception handling.
-4. Read questions from a CSV file and populate the database.
-5. Develop a front-end application for user interaction.
+1. Add code coverage configuration like Jacoco
+2. Add Junit test cases
+3. Implement DELETE functionality for questions.
+4. Implement UPDATE functionality for questions.
+5. Add validation and exception handling.
+6. Read questions from a CSV file and populate the database.
+7. Develop a front-end application for user interaction.
 
 ## Running the Application Locally
 To run the application on your local machine, follow these steps:
