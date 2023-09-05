@@ -48,7 +48,7 @@ To run the application on your local machine, follow these steps:
     - To perform CRUD operations, use Postman and send the following requests:
         1. **GET** `http://localhost:8080/question/allQuestions`
         2. **POST** `http://localhost:8080/question/add`
-            - Payload:
+            - Payload example:
            ```json
            {
                "questionTitle": "This is one more test question for POST?",
@@ -64,7 +64,7 @@ To run the application on your local machine, follow these steps:
         3. **POST** `http://localhost:8080/quiz/create?category=Java&numQ=5&title=JQuiz`
         4. **GET** `http://localhost:8080/quiz/get/1`
         5. **POST** `http://localhost:8080/quiz/submit/1`
-            - Payload:
+            - Payload example:
            ```json
            [
                {
