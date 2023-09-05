@@ -39,7 +39,7 @@
 >   3. To run the CRUD operations, use postman to run the below payload 
 >      1. **GET** http://localhost:8080/question/allQuestions
 >      2. **POST** http://localhost:8080/question/add
->         >Payload:
+>         Payload:
        ```{
           "questionTitle": "This is one more test question for POST?",
           "option1": "op1",
@@ -54,7 +54,7 @@
  >      3. **POST** http://localhost:8080/quiz/create?category=Java&numQ=5&title=JQuiz
  >      4. **GET** http://localhost:8080/quiz/get/1
  >      5. **POST** http://localhost:8080/quiz/submit/1
- >      >Payload: ```[
+ >      Payload: ```[
        {
        "id":"25",
        "response":"Option 3"
