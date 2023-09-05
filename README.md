@@ -26,7 +26,7 @@ To run the application on your local machine, follow these steps:
 3. Ensure that Maven dependencies are resolved by running `mvn clean install`.
 4. Install PgAdmin from [https://www.pgadmin.org/download/](https://www.pgadmin.org/download/).
 5. Create a database named **questiondb** using PgAdmin.
-    - You can use the UI to create the database.
+    - You can use the UI to create the database `questiondb`.
     - Run the following SQL command to create the `question` table:
 
    ```sql
