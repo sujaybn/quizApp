@@ -19,6 +19,8 @@ The project has the following areas for improvement:
 5. Add validation and exception handling.
 6. Read questions from a CSV file and populate the database.
 7. Develop a front-end application for user interaction.
+8. Implement CI/CD.
+9. Deploy the web-application on GCP/AWS.
 
 ## Running the Application Locally
 To run the application on your local machine, follow these steps:
